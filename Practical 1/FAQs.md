@@ -53,14 +53,14 @@ However, gets() is unsafe and has been removed from modern C standards because i
 Ans:
  Strings are used for storing, processing and manipulating text data in computer programs.
 The main applications of strings are:
-Storing names, words and sentences.
-Comparing different strings.
-Searching for characters or words.
-Joining two or more strings.
-Copying and modifying text.
-Storing messages and other textual information.
-Processing text-based data.
-Handling input and output of textual information.
+a.Storing names, words and sentences.
+b.Comparing different strings.
+c.Searching for characters or words.
+d.Joining two or more strings.
+e.Copying and modifying text.
+f.Storing messages and other textual information.
+g.Processing text-based data.
+h.Handling input and output of textual information.
 
 
 10. What is the limitation of an array of pointers to strings?
